@@ -29,11 +29,10 @@
   <img align="right" hight: 70px; width: 100px; src="https://github-readme-stats.vercel.app/api/top-langs?username=geethman&show_icons=true&locale=en&layout=compact" alt="geethman" />
 </p>
 
-<!-- Add spacing with CSS -->
-<div style="margin-top: 20px;"></div>
+
 
 <!-- GitHub Streak Stats Below -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geethman&" alt="geethman" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geethman&" alt="geethman" margin-top: 20px; />
 </p>
 
