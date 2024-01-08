@@ -21,7 +21,7 @@
 
 <!-- GitHub Stats on the Left and Top Languages on the Right -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=geethman&show_icons=true&locale=en" alt="geethman" />
+  <img align="left" hight: 70px; width: 100px; src="https://github-readme-stats.vercel.app/api?username=geethman&show_icons=true&locale=en" alt="geethman" />
 </p>
 
 <!-- Top Languages Used on the Right -->
