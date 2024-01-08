@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geethma Nimsarani</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-- 👨‍💻 All of my projects are available at [(https://geethmanimsarani.netlify.app)]](https://geethmanimsarani.netlify.app)]
-
+- 👨‍💻 All of my projects are available at [(https://geethmanimsarani.netlify.app)]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethman&label=Profile%20views&color=0e75b6&style=flat" alt="geethman" /> </p>
 
