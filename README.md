@@ -1,7 +1,7 @@
 # Geethma-sProfile
 Hello, This Is my Profile. I'm Geethma Nimsarani.
 
-<h2 align="left">Hi 👋! My name is Geetha and I'm a Full Stack Developer.</h2>
+<h2 align="left">Hi 👋! My name is Geethma and I'm a Full Stack Developer.</h2>
 
 ###
 
