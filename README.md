@@ -22,12 +22,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geethman&show_icons=true&locale=en&layout=compact" alt="geethman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geethman&show_icons=true&locale=en" alt="geethman" /></p>
-<br></br>
+</br> </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geethman&" alt="geethman" /></p>
 
 
-<!-- GitHub Streak Stats Below -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geethman&" alt="geethman" margin-top: 20px; />
-</p>
+
 
