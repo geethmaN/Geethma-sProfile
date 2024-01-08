@@ -20,7 +20,7 @@
 
 
 <!-- GitHub Stats on the Left and Top Languages on the Right -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; padding:50px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=geethman&show_icons=true&locale=en" alt="geethman" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geethman&show_icons=true&locale=en&layout=compact" alt="geethman" />
 </div>
