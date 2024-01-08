@@ -26,7 +26,7 @@
 
 <!-- Top Languages Used on the Right -->
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=geethman&show_icons=true&locale=en&layout=compact" alt="geethman" />
+  <img align="right" hight: 70px; width: 100px src="https://github-readme-stats.vercel.app/api/top-langs?username=geethman&show_icons=true&locale=en&layout=compact" alt="geethman" />
 </p>
 
 <!-- Add spacing with CSS -->
