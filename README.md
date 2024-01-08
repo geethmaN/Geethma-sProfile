@@ -22,5 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geethman&show_icons=true&locale=en" alt="geethman" /></p>
 <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geethman&" alt="geethman" /></p>
+<center>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geethman&" alt="geethman" /></p></center>
