@@ -20,7 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geethman&show_icons=true&locale=en&layout=compact" alt="geethman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geethman&show_icons=true&locale=en" alt="geethman" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=geethman&show_icons=true&locale=en" alt="geethman" /></p>
 <br>
-<center>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geethman&" alt="geethman" /></p></center>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geethman&" alt="geethman" /></p>
