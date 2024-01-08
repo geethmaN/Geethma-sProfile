@@ -26,6 +26,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=geethman&show_icons=true&locale=en&layout=compact" alt="geethman" />
 </div>
 
+<!-- Line breaks -->
+<br/><br/><br/>
+
 <!-- GitHub Streak Stats Below -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geethman&" alt="geethman" />
